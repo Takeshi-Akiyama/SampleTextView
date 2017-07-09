@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleTextView</string>
+    <string name="msg">layoutファイルに直で文字を表示する時はこのAndroid:textに指定する</string>
+</resources>
